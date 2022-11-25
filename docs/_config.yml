@@ -20,8 +20,7 @@
 
 title: EXPLORING THE IMPACT OF TRAINING DATASET MUSICAL GENRE AND LATENT SPACE CONFIGURATION ON LATENT SPACE REGULARISATION FOR MUSIC GENERATION
 email: a@b.com
-description: >- # this means to ignore newlines until "baseurl:"
-asd
+description: asd
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anonymoussubmission539.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
