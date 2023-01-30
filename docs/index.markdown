@@ -5,10 +5,10 @@
 layout: home
 --- -->
 
-## Bach Chorales Dataset
+# Bach Chorales Dataset
 
-## Irish Folk Music Dataset
+# Irish Folk Music Dataset
 
-## Lakh Dataset
+# Lakh Dataset
 
-## Turkish Maqam Music Dataset
+# Turkish Maqam Music Dataset
