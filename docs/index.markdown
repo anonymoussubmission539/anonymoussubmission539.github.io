@@ -7,14 +7,9 @@ layout: home
 
 # Muse Dataset (Classical, Bach)
 
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
-
-<!--
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
-| -------- | -------- | -------- | -------- | ----- | --------- | -->
+| -------- | -------- | -------- | -------- | ----- | --------- |
+| Low      | Low      | Low      | Low      |       |           |
 
 # Lakh Dataset (Jazz and Popular music)
 
