@@ -5,10 +5,10 @@
 layout: home
 --- -->
 
-# Bach Chorales Dataset
+# Muse Dataset (Classical, Bach)
 
-# Irish Folk Music Dataset
+# Lakh Dataset (Jazz and Popular music)
 
-# Lakh Dataset
+# Turkish Makam Dataset
 
-# Turkish Maqam Music Dataset
+# Irish Folk Song Dataset
