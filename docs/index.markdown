@@ -11,7 +11,7 @@ layout: home
 
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
 | -------- | -------- | -------- | -------- | ----- | --------- |
-| Low      | Low      | Low      | Low      |       | asd       |
+| Low      | Low      | Low      | Low      | asd   | asd       |
 
 # Lakh Dataset (Jazz and Popular music)
 
