@@ -7,7 +7,7 @@ layout: home
 
 # Muse Dataset (Classical, Bach)
 
-<audio ref='themeSong' src="/midi_4_4_4_4.mp3" autoPlay loop></audio>
+<audio ref='themeSong' src="/midi_4_4_4_4.mp3"></audio>
 
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
 | -------- | -------- | -------- | -------- | ----- | --------- |
