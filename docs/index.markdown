@@ -7,6 +7,12 @@ layout: home
 
 <!-- <audio src="midi_4_4_4_4.mp3" controls autoplay loop></audio> -->
 
+# Abstract
+
+Deep learning techniques have successfully been used to generate music in a wide variety of musical styles and forms. However, the inner workings of most generative music models are not understandable to people. One approach to making more understandable generative models of music is to employ latent space regularisation in a Variational Auto-Encoder (VAE). A key example of this approach is MeasureVAE which has been demonstrated using an Irish folk melody dataset. This paper examines how MeasureVAE performs with different latent vector sizes, different numbers of regularised dimensions, and on a wider range of training datasets and genres including classical, pop, rock, jazz, R\&B, and folk music. Results indicate that MeasureVAE is able to generate music in these genres and that 32 and 64 dimension latent vector models are optimal as they generate lower loss, and have higher accuracy and interpretability scores than 4, 8, 16, 128, and 256 dimensions.
+
+# Measure VAE Architecture and the Latent Regularisation Loss
+
 # Muse Dataset (Classical, Bach)
 
 <!-- <audio ref='themeSong' src="/midi_4_4_4_4.mp3"></audio> -->
