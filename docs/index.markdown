@@ -7,7 +7,9 @@ layout: home
 
 # Muse Dataset (Classical, Bach)
 
-<audio ref='themeSong' src="/midi_4_4_4_4.mp3"></audio>
+<!-- <audio ref='themeSong' src="/midi_4_4_4_4.mp3"></audio> -->
+
+<audio ><source src='midi_4_4_4_4.mp3' type='audio/mpeg'></audio>
 
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
 | -------- | -------- | -------- | -------- | ----- | --------- |
@@ -23,7 +25,7 @@ layout: home
 | **High**      | Low      | **High**      | Low      | asd   | asd       |
 | **High**      | Low      | Low      | **High**      | asd   | asd       |
 | Low      | **High**      | **High**      | **High**      | asd   | asd       |
-| **High**      | **High**      | High      | Low      | asd   | asd       |
+| **High**      | **High**      | **High**      | Low      | asd   | asd       |
 | **High**      | **High**      | Low      | **High**      | asd   | asd       |
 | **High**   | Low      | **High**     | **High**     | asd   | asd       |
 | **High**     | **High**    | **High**     | **High**     | asd   | asd       |
