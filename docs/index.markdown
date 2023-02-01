@@ -5,16 +5,20 @@
 layout: home
 --- -->
 
+<audio src="midi_4_4_4_4.mp3" controls autoplay loop></audio>
+
 # Muse Dataset (Classical, Bach)
 
 <!-- <audio ref='themeSong' src="/midi_4_4_4_4.mp3"></audio> -->
 
-<audio ><source src='midi_4_4_4_4.mp3' type='audio/mpeg'></audio>
+<!-- <audio ><source src='midi_4_4_4_4.mp3' type='audio/mpeg'></audio> -->
+
+
 
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
 | -------- | -------- | -------- | -------- | ----- | --------- |
-| Low      | Low      | Low      | Low      | asd   | ![Piano Roll](midi_4_4_4_4.png)       |
-| Low      | Low      | Low      | **High**      | asd   | asd       |
+| Low      | Low      | Low      | Low      | asd   | ![Piano Roll](/Bach/Piano_rolls/midi_4_4_4_4.png)       |
+| Low      | Low      | Low      | **High**      | asd   | ![Piano Roll](/Bach/Piano_rolls/midi_4_4_4_10.png)        |
 | Low      | Low      | **High**      | Low      | asd   | asd       |
 | Low      | **High**      | Low      | Low      | asd   | asd       |
 | **High**      | Low      | Low      | Low      | asd   | asd       |
