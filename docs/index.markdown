@@ -11,7 +11,7 @@ layout: home
 
 | Metric 1 | Metric 2 | Metric 3 | Metric 4 | Audio | Pianoroll |
 | -------- | -------- | -------- | -------- | ----- | --------- |
-| Low      | Low      | Low      | Low      | asd   | asd       |
+| Low      | Low      | Low      | Low      | asd   | ![Piano Roll](midi_4_4_4_4.png)       |
 | Low      | Low      | Low      | *High*      | asd   | asd       |
 | Low      | Low      | High      | Low      | asd   | asd       |
 | Low      | High      | Low      | Low      | asd   | asd       |
